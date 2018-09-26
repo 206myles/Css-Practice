@@ -1,1 +1,4 @@
-# Css-Practice
+- Features friendly layout
+- Easy UI
+- Clean nav bar
+- Bootstrap4
